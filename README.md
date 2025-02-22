@@ -23,13 +23,28 @@ Here’s a snapshot of the tools and technologies I use to bring insights to lif
 
 ---
 
-### 🔍 **Data-Driven Decision-Making**
+## 💡 Key Services I Offer
 
-I believe data isn't just numbers; it’s a story waiting to be told. Here's what I do:
+### 1. **Data Analysis & Reporting** 📈
+- Transform raw data into **clear, actionable insights**.
+- Develop detailed **reports** and **dashboards** to aid in **data-driven decision-making**.
 
-- 📊 **Data Analytics**: I use advanced **statistical tools** to uncover patterns and trends that drive business decisions.
-- 🧮 **Data Cleaning & Exploration**: Raw data is full of potential, and I clean, filter, and transform it into something meaningful.
-- 📈 **Data Visualization**: Using tools like **Power BI** and **Python**, I build **interactive dashboards** and beautiful visualizations that help stakeholders see the insights clearly.
+### 2. **Data Cleaning & Transformation** 🧹
+- Prepare and clean data to ensure **accuracy** and **completeness**.
+- Perform **data transformation** to integrate multiple data sources seamlessly.
+
+### 3. **Automation & Optimization** ⚙️
+- Automate **repetitive data tasks** to improve workflow efficiency using **Python** or **SQL**.
+- **Optimize database performance** and streamline data access processes for faster insights.
+
+### 4. **Data Visualization** 📊
+- Create **visually compelling** and **interactive dashboards** using **Power BI** or **Excel**.
+- Tailor data visualizations to meet the **specific needs of stakeholders**.
+
+### 5. **Data Warehouse & Database Management** 🏗️
+- Implement and manage **data warehousing solutions**, ensuring **smooth data flows**.
+- Optimize **database structures** for **high performance** and **scalability**.
+
   
 ---
 
@@ -41,11 +56,6 @@ I believe data isn't just numbers; it’s a story waiting to be told. Here's wha
 
 ---
 
-### 🌟 **Let’s Get to Know Each Other**
-
-I’ve worked on a variety of **exciting projects**, from analyzing coffee sales to predicting diabetes using SQL, and from exploring population data to building interactive Olympic Games dashboards. **Explore my projects below** to see how I bring insights to life.
-
----
 
 ### 📜 **Certifications**
 
